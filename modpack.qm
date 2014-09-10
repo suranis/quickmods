@@ -1,59 +1,50 @@
 {
-    "formatVersion": 1,
-    "uid": "tc.modpack",
-    "repo": "suranis.quickmods",
-    "modId": "TCModpack",
-    "name": "TechnomancersCollectiveModpack",
-    "urls": {
-        "forum": [
-            "http://www.technomancers-collective.com"
-        ]
-    },
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
-    "tags": [
-        "Modpack"
-    ],
-    "catagories": [
-        "Modpack"
-    ],
     "authors": {
-        "Developer": [
+        "Author": [
             "Suranis"
         ]
     },
-    "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
-        "codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
-        "codechicken.enderchest": "https://rawgit.com/suranis/quickmods/master/EnderChest.quickmod",
-        "codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
-    },
+    "categories": [
+        "Mod Packs",
+        ""
+    ],
+    "formatVersion": 1,
+    "name": "1.7.10",
+    "repo": "suranis.quickmods",
+    "uid": "tc.modpack",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
     "versions": [
         {
+            "forgeCompat": "1.7.10-10.13.1.1216-new",
+            "installType": "group",
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "v6",
-            "installType": "group",
+            "name": "6.0",
             "references": [
                 {
+                    "isSoft": false,
+                    "type": "",
                     "uid": "codechicken.core",
-                    "version": "",
-                    "type": "depends"
+                    "version": "1.0.3.26"
                 },
-				{
+                {
+                    "isSoft": false,
+                    "type": "",
+                    "uid": "codechicken.enderstorage",
+                    "version": "1.4.5.24"
+                },
+                {
+                    "isSoft": false,
+                    "type": "",
                     "uid": "codechicken.nei",
-                    "version": "",
-                    "type": "depends"
+                    "version": "1.0.3.56"
                 },
                 {
-                    "uid": "codechicken.enderchest",
-                    "version": "",
-                    "type": "depends"
-                },
-                {
+                    "isSoft": false,
+                    "type": "",
                     "uid": "codechicken.translocator",
-                    "version": "",
-                    "type": "depends"
+                    "version": "1.1.1.12"
                 }
             ]
         }
