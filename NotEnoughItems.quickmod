@@ -1,37 +1,52 @@
 {
-  "formatVersion": 1,
-  "uid":"codechicken.nei",
-  "repo": "suranis.quickmods",
-  "modId":"NotEnoughItems",
-  "name":"NotEnoughItems",
-  "urls":{
-    "forum": ["http://www.minecraftforum.net/forums/thread/1279956"],
-    "source": ["http://github.com/Chicken-Bones/NotEnoughItems"]
-  },
-  "updateUrl":"https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
-  "tags":["Modpack"],
-  "catagories":["Modpack"],
-  "authors":{ "Developer":["ChickenBones"] },
-  "references": {
-    "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
-  },
-  "versions": [
-    {
-      "mcCompat":["1.7.10"],
-      "name":"1.0.3.56",
-      "installType":"forgeMod",
-      "urls": [
+    "formatVersion": 1,
+    "uid": "codechicken.nei",
+    "repo": "suranis.quickmods",
+    "modId": "NotEnoughItems",
+    "name": "NotEnoughItems",
+    "urls": {
+        "forum": [
+            "http://www.minecraftforum.net/forums/thread/1279956"
+        ],
+        "source": [
+            "http://github.com/Chicken-Bones/NotEnoughItems"
+        ]
+    },
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "authors": {
+        "Developer": [
+            "ChickenBones"
+        ]
+    },
+    "references": {
+        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod"
+    },
+    "versions": [
         {
-          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.3.56/NotEnoughItems-1.7.10-1.0.3.56-universal.jar",
-          "downloadType": "direct"
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.0.3.56",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.3.56/NotEnoughItems-1.7.10-1.0.3.56-universal.jar",
+                    "downloadType": "direct"
+                }
+            ],
+            "references": [
+                {
+                    "uid": "codechicken.core",
+                    "version": "",
+                    "type": "depends"
+                }
+            ]
         }
-      ],
-      "references": [
-        {
-          "uid": "codechicken.core",
-          "version": "",
-          "type": "depends"
-        }
-      ]
-    }
+    ]
 }
