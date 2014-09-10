@@ -4,7 +4,6 @@
     "repo": "suranis.quickmods",
     "modId": "CodeChickenCore",
     "name": "CodeChickenCore",
-    "description": "Core library for all ChickenBones mods",
     "urls": {
         "forum": [
             "http://www.minecraftforum.net/forums/thread/1279956"
@@ -24,7 +23,7 @@
         "Developer": [
             "ChickenBones"
         ]
-    }
+    },
     "versions": [
         {
             "mcCompat": [
