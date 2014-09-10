@@ -60,7 +60,13 @@
                 }
             ],
             "sha1": "",
-            "type": "Release"
+            "type": "Release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://rawgit.com/suranis/quickmods/master/modpackfiles.zip"
+                }
+            ]
         }
     ]
 }
