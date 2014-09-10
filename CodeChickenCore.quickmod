@@ -24,8 +24,7 @@
         "Developer": [
             "ChickenBones"
         ]
-    },
-    "references": {},
+    }
     "versions": [
         {
             "mcCompat": [
@@ -38,9 +37,6 @@
                     "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.3.26/CodeChickenCore-1.7.10-1.0.3.26-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
-            "references": [
-                {}
             ]
         }
     ]
