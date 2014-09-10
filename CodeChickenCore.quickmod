@@ -19,11 +19,11 @@
   "versions": [
     {
       "mcCompat": ["1.7.10"],
-      "name": "1.0.2.9",
+      "name": "1.0.3.26",
       "installType": "forgeMod",
       "urls": [
         {
-          "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.2.9/CodeChickenCore-1.7.10-1.0.2.9-universal.jar",
+          "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.3.26/CodeChickenCore-1.7.10-1.0.3.26-universal.jar",
           "downloadType": "direct"
         }
       ],
