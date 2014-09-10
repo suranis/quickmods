@@ -13,6 +13,12 @@
     "repo": "suranis.quickmods",
     "uid": "tc.modpack",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
+	"references": {
+        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
+		"codechicken.enderstorage": "https://rawgit.com/suranis/quickmods/master/EnderStorage.quickmod",
+		"codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
+		"codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
+    },
     "versions": [
         {
             "forgeCompat": "1.7.10-10.13.1.1216-new",
