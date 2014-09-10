@@ -2,5 +2,21 @@
   "baseUrl": "https://rawgit.com/suranis/quickmods/master/",
   "repo": "suranis.quickmods",
   "index": [
+    {
+      "uid": "codechicken.core",
+      "url": "CodeChickenCore.quickmod"
+    },
+    {
+      "uid": "codechicken.nei",
+      "url": "NotEnoughItems.quickmod"
+    },
+    {
+      "uid": "codechicken.enderstorage",
+      "url": "EnderStorage.quickmod"
+    },
+    {
+      "uid": "codechicken.translocator",
+      "url": "Translocator.quickmod"
+    }
   ]
 }
