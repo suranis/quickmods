@@ -14,17 +14,17 @@
     "name": "Technomancers Collective",
     "nemName": "",
     "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
-        "codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
-        "codechicken.enderstorage": "https://rawgit.com/suranis/quickmods/master/EnderStorage.quickmod",
-        "codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
+        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json",
+        "codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.json",
+        "codechicken.enderstorage": "https://rawgit.com/suranis/quickmods/master/EnderStorage.json,
+        "codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.json"
     },
     "repo": "suranis/quickmods",
     "tags": [
         "FTB"
     ],
     "uid": "tc.modpack",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.json",
     "urls": {
         "website": [
             "http://www.technomancers-collective.com"

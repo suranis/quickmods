@@ -1,18 +1,18 @@
 {
     "formatVersion": 1,
-    "uid": "codechicken.nei",
+    "uid": "codechicken.translocator",
     "repo": "suranis.quickmods",
-    "modId": "NotEnoughItems",
-    "name": "NotEnoughItems",
+    "modId": "Translocator",
+    "name": "Translocator",
     "urls": {
         "forum": [
             "http://www.minecraftforum.net/forums/thread/1279956"
         ],
         "source": [
-            "http://github.com/Chicken-Bones/NotEnoughItems"
+            "http://github.com/Chicken-Bones/Translocator"
         ]
     },
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Translocator.json",
     "tags": [
         "Modpack"
     ],
@@ -25,18 +25,18 @@
         ]
     },
     "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod"
+        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/Translocator.json"
     },
     "versions": [
         {
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.0.3.56",
+            "name": "1.1.1.12",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.3.56/NotEnoughItems-1.7.10-1.0.3.56-universal.jar",
+                    "url": "http://chickenbones.net/maven/codechicken/Translocator/1.7.10-1.1.1.12/Translocator-1.7.10-1.1.1.12-universal.jar",
                     "downloadType": "direct"
                 }
             ],

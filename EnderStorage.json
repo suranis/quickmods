@@ -12,7 +12,7 @@
             "https://github.com/Chicken-Bones/EnderStorage"
         ]
     },
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnderStorage.quickmods",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnderStorage.json",
     "tags": [
         "Modpack"
     ],
@@ -25,7 +25,7 @@
         ]
     },
     "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod"
+        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json"
     },
     "versions": [
         {
