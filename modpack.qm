@@ -1,61 +1,66 @@
 {
-    "formatVersion": 1,
-    "uid": "tc.modpack",
-    "repo": "suranis.quickmods",
-    "modId": "TCModpack",
-    "name": "Technomancers Collective Modpack",
-    "urls": {
-        "forum": [
-            "http://www.technomancers-collective.com"
-        ]
-    },
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
-    "tags": [
-        "Modpack"
-    ],
-    "catagories": [
-        "Modpack"
-    ],
     "authors": {
-        "Developer": [
+        "Creator": [
             "Suranis"
         ]
     },
+    "categories": [
+        "Modpack"
+    ],
+    "description": "Modpack for the Technomancers Collective Server",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "",
+    "name": "Technomancers Collective",
+    "nemName": "",
     "references": {
         "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
         "codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
         "codechicken.enderchest": "https://rawgit.com/suranis/quickmods/master/EnderChest.quickmod",
         "codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
     },
+    "repo": "suranis/quickmods",
+    "tags": [
+        "FTB"
+    ],
+    "uid": "tc.modpack",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
+    "urls": {
+        "website": [
+            "http://www.technomancers-collective.com"
+        ]
+    },
     "versions": [
         {
+            "installType": "configPack",
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "v6",
-            "installType": "group",
+            "name": "6.0",
             "references": [
                 {
+                    "type": "depends",
                     "uid": "codechicken.core",
-                    "version": "",
-                    "type": "depends"
+                    "version": ""
                 },
-				{
+                {
+                    "type": "depends",
                     "uid": "codechicken.nei",
-                    "version": "",
-                    "type": "depends"
+                    "version": ""
                 },
                 {
+                    "type": "depends",
                     "uid": "codechicken.enderchest",
-                    "version": "",
-                    "type": "depends"
+                    "version": ""
                 },
                 {
+                    "type": "depends",
                     "uid": "codechicken.translocator",
-                    "version": "",
-                    "type": "depends"
+                    "version": ""
                 }
-            ]
+            ],
+            "sha1": "",
+            "type": "Release"
         }
     ]
 }
