@@ -9,8 +9,8 @@
     "source": ["http://github.com/Chicken-Bones/Translocator"]
   },
   "updateUrl":"https://rawgit.com/suranis/quickmods/master/Translocator.quickmod",
-  "tags":["TC Modpack"],
-  "catagories":["TC Modpack"],
+  "tags":["Modpack"],
+  "catagories":["Modpack"],
   "authors":{ "Developer":["ChickenBones"] },
   "references": {
     "codechicken.core": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod",
