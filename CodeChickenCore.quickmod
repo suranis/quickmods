@@ -14,7 +14,6 @@
   "catagories": ["TC Modpack"],
   "authors": { "Developer": ["ChickenBones"] },
   "references": {
-    "codechicken.lib": "https://rawgit.com/suranis/quickmods/master/CodeChickenLib.quickmod"
   },
   "versions": [
     {
@@ -29,9 +28,6 @@
       ],
       "references": [
         {
-          "uid": "codechicken.lib",
-          "version": "",
-          "type": "depends"
         }
       ]
     },
