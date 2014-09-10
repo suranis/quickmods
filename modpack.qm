@@ -22,9 +22,9 @@
         ]
     },
     "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod"
-		"codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod"
-		"codechicken.enderchest": "https://rawgit.com/suranis/quickmods/master/EnderChest.quickmod"
+        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
+		"codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
+		"codechicken.enderchest": "https://rawgit.com/suranis/quickmods/master/EnderChest.quickmod",
 		"codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
     },
     "versions": [
@@ -34,23 +34,22 @@
             ],
             "name": "v6",
             "installType": "group",
-            ],
             "references": [
                 {
                     "uid": "codechicken.core",
                     "version": "",
                     "type": "depends"
-                }
+                },
 				{
                     "uid": "codechicken.nei",
                     "version": "",
                     "type": "depends"
-                }
+                },
 				{
                     "uid": "codechicken.enderchest",
                     "version": "",
                     "type": "depends"
-                }
+                },
 				{
                     "uid": "codechicken.translocator",
                     "version": "",
