@@ -5,7 +5,7 @@
         ]
     },
     "categories": [
-        "Mod Packs",
+        "Modpack",
         ""
     ],
     "formatVersion": 1,
@@ -21,7 +21,6 @@
     },
     "versions": [
         {
-            "forgeCompat": "1.7.10-10.13.1.1216-new",
             "installType": "group",
             "mcCompat": [
                 "1.7.10"
