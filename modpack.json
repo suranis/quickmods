@@ -38,6 +38,7 @@
     },
     "versions": [
         {
+            "forgeCompat": "(10.13.1.1216,]",
             "installType": "configPack",
             "mcCompat": [
                 "1.7.10"
