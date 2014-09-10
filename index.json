@@ -3,7 +3,7 @@
   "repo": "suranis.quickmods",
   "index": [
     {
-      "uid": "tc.modpack";
+      "uid": "tc.modpack",
       "url": "modpack.qm"
     },
     {
