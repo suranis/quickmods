@@ -19,22 +19,17 @@
   "versions": [
     {
       "mcCompat":["1.7.10"],
-      "name":"1.0.2.15",
+      "name":"1.0.3.56",
       "installType":"forgeMod",
       "urls": [
         {
-          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.2.15/NotEnoughItems-1.7.10-1.0.2.15-universal.jar",
+          "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.3.56/NotEnoughItems-1.7.10-1.0.3.56-universal.jar",
           "downloadType": "direct"
         }
       ],
       "references": [
         {
           "uid": "codechicken.core",
-          "version": "[1.0.1.6,)",
-          "type": "depends"
-        },
-        {
-          "uid": "codechicken.lib",
           "version": "",
           "type": "depends"
         }
