@@ -14,7 +14,6 @@
   "authors":{ "Developer":["ChickenBones"] },
   "references": {
     "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
-    "codechicken.lib": "https://rawgit.com/suranis/quickmods/master/CodeChickenLib.quickmod"
   },
   "versions": [
     {
