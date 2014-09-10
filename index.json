@@ -3,6 +3,10 @@
   "repo": "suranis.quickmods",
   "index": [
     {
+      "uid": "tc.modpack"
+      "url": "modpack.qm"
+    },
+    {
       "uid": "codechicken.core",
       "url": "CodeChickenCore.quickmod"
     },
