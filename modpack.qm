@@ -1,10 +1,15 @@
 {
     "authors": {
+<<<<<<< HEAD
         "Creator": [
+=======
+        "Author": [
+>>>>>>> origin/master
             "Suranis"
         ]
     },
     "categories": [
+<<<<<<< HEAD
         "Modpack"
     ],
     "description": "Modpack for the Technomancers Collective Server",
@@ -14,10 +19,21 @@
     "name": "Technomancers Collective",
     "nemName": "",
     "references": {
+=======
+        "Modpack",
+        ""
+    ],
+    "formatVersion": 1,
+    "name": "1.7.10",
+    "repo": "suranis.quickmods",
+    "uid": "tc.modpack",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/modpack.qm",
+	"references": {
+>>>>>>> origin/master
         "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
-        "codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
-        "codechicken.enderchest": "https://rawgit.com/suranis/quickmods/master/EnderChest.quickmod",
-        "codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
+		"codechicken.enderstorage": "https://rawgit.com/suranis/quickmods/master/EnderStorage.quickmod",
+		"codechicken.nei": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.quickmod",
+		"codechicken.translocator": "https://rawgit.com/suranis/quickmods/master/Translocator.quickmod"
     },
     "repo": "suranis/quickmods",
     "tags": [
@@ -32,13 +48,18 @@
     },
     "versions": [
         {
+<<<<<<< HEAD
             "installType": "configPack",
+=======
+            "installType": "group",
+>>>>>>> origin/master
             "mcCompat": [
                 "1.7.10"
             ],
             "name": "6.0",
             "references": [
                 {
+<<<<<<< HEAD
                     "type": "depends",
                     "uid": "codechicken.core",
                     "version": ""
@@ -57,6 +78,30 @@
                     "type": "depends",
                     "uid": "codechicken.translocator",
                     "version": ""
+=======
+                    "isSoft": false,
+                    "type": "",
+                    "uid": "codechicken.core",
+                    "version": "1.0.3.26"
+                },
+                {
+                    "isSoft": false,
+                    "type": "",
+                    "uid": "codechicken.enderstorage",
+                    "version": "1.4.5.24"
+                },
+                {
+                    "isSoft": false,
+                    "type": "",
+                    "uid": "codechicken.nei",
+                    "version": "1.0.3.56"
+                },
+                {
+                    "isSoft": false,
+                    "type": "",
+                    "uid": "codechicken.translocator",
+                    "version": "1.1.1.12"
+>>>>>>> origin/master
                 }
             ],
             "sha1": "",
