@@ -1,0 +1,33 @@
+{
+  "formatVersion": 1,
+  "uid":"",
+  "repo": "suranis.quickmods",
+  "modId":"",
+  "name":"",
+  "urls":{
+    "forum": [""],
+    "source": [""]
+  },
+  "updateUrl":"https://rawgit.com/suranis/quickmods/master/Template.quickmod",
+  "tags":["TC Modpack"],
+  "catagories":["TC Modpack"],
+  "authors":{ "Developer":[""] },
+  "references": {
+  },
+  "versions": [
+    {
+      "mcCompat":["1.7.10"],
+      "name":"",
+      "installType":"forgeMod",
+      "urls": [
+        {
+          "url": "",
+          "downloadType": "direct"
+        }
+      ],
+      "references": [
+        {
+        }
+      ]
+    }
+}
