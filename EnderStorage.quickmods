@@ -9,8 +9,8 @@
     "source": ["https://github.com/Chicken-Bones/EnderStorage"]
   },
   "updateUrl":"https://rawgit.com/suranis/quickmods/master/EnderStorage.quickmods",
-  "tags":["TC Modpack"],
-  "catagories":["TC Modpack"],
+  "tags":["Modpack"],
+  "catagories":["Modpack"],
   "authors":{ "Developer":["ChickenBones"] },
   "references": {
     "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.quickmod",
