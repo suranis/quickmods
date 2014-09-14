@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.codechickencore",
+    "uid": "tc.forgemultipart",
     "repo": "suranis.quickmods",
-    "modId": "codechickencore",
-    "name": "CodeChickenCore",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json",
+    "modId": "forgemultipart",
+    "name": "ForgeMultipart",
+    "updateUrl": "https://raw.githubusercontent.com/suranis/quickmods/master/ForgeMultipart.json",
     "tags": [
         "Modpack"
     ],
@@ -16,11 +16,11 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.0.3.26",
+            "name": "1.1.0.306",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.3.26/CodeChickenCore-1.7.10-1.0.3.26-universal.jar",
+                    "url": "http://files.minecraftforge.net/maven/codechicken/ForgeMultipart/1.7.10-1.1.0.306/ForgeMultipart-1.7.10-1.1.0.306-universal.jar",
                     "downloadType": "direct"
                 }
             ]

@@ -1,17 +1,9 @@
 {
     "formatVersion": 1,
-    "uid": "codechicken.nei",
+    "uid": "tc.nei",
     "repo": "suranis.quickmods",
-    "modId": "NotEnoughItems",
+    "modId": "nei",
     "name": "NotEnoughItems",
-    "urls": {
-        "forum": [
-            "http://www.minecraftforum.net/forums/thread/1279956"
-        ],
-        "source": [
-            "http://github.com/Chicken-Bones/NotEnoughItems"
-        ]
-    },
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/NotEnoughItems.json",
     "tags": [
         "Modpack"
@@ -19,13 +11,8 @@
     "catagories": [
         "Modpack"
     ],
-    "authors": {
-        "Developer": [
-            "ChickenBones"
-        ]
-    },
     "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json"
+        "tc.codechickencore": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json"
     },
     "versions": [
         {
@@ -42,8 +29,8 @@
             ],
             "references": [
                 {
-                    "uid": "codechicken.core",
-                    "version": "",
+                    "uid": "tc.codechickencore",
+                    "version": "1.0.3.26",
                     "type": "depends"
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.codechickencore",
+    "uid": "tc.neiaddons",
     "repo": "suranis.quickmods",
-    "modId": "codechickencore",
-    "name": "CodeChickenCore",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json",
+    "modId": "neiaddons",
+    "name": "NEIAddons",
+    "updateUrl": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIAddons.json",
     "tags": [
         "Modpack"
     ],
@@ -16,11 +16,11 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.0.3.26",
+            "name": "1.12.2.9",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.3.26/CodeChickenCore-1.7.10-1.0.3.26-universal.jar",
+                    "url": "http://bdew.net/download/neiaddons-mc1710-1.12.2.9.jar",
                     "downloadType": "direct"
                 }
             ]

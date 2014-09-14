@@ -1,17 +1,9 @@
 {
     "formatVersion": 1,
-    "uid": "codechicken.translocator",
+    "uid": "tc.translocator",
     "repo": "suranis.quickmods",
-    "modId": "Translocator",
+    "modId": "translocator",
     "name": "Translocator",
-    "urls": {
-        "forum": [
-            "http://www.minecraftforum.net/forums/thread/1279956"
-        ],
-        "source": [
-            "http://github.com/Chicken-Bones/Translocator"
-        ]
-    },
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Translocator.json",
     "tags": [
         "Modpack"
@@ -19,13 +11,8 @@
     "catagories": [
         "Modpack"
     ],
-    "authors": {
-        "Developer": [
-            "ChickenBones"
-        ]
-    },
     "references": {
-        "codechicken.core": "https://rawgit.com/suranis/quickmods/master/Translocator.json"
+        "tc.codechickencore": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json"
     },
     "versions": [
         {
@@ -42,8 +29,8 @@
             ],
             "references": [
                 {
-                    "uid": "codechicken.core",
-                    "version": "",
+                    "uid": "tc.codechickencore",
+                    "version": "1.0.3.26",
                     "type": "depends"
                 }
             ]

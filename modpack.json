@@ -14,15 +14,21 @@
     "name": "Technomancers Collective",
     "nemName": "",
     "references": {
-        "codechicken.core": "https://raw.githubusercontent.com/suranis/quickmods/master/CodeChickenCore.json",
-        "codechicken.nei": "https://raw.githubusercontent.com/suranis/quickmods/master/NotEnoughItems.json",
-        "codechicken.enderstorage": "https://raw.githubusercontent.com/suranis/quickmods/master/EnderStorage.json",
-        "codechicken.translocator": "https://raw.githubusercontent.com/suranis/quickmods/master/Translocator.json"
+        "tc.codechickencore": "https://raw.githubusercontent.com/suranis/quickmods/master/CodeChickenCore.json",
+        "tc.nei": "https://raw.githubusercontent.com/suranis/quickmods/master/NotEnoughItems.json",
+        "tc.enderstorage": "https://raw.githubusercontent.com/suranis/quickmods/master/EnderStorage.json",
+        "tc.translocator": "https://raw.githubusercontent.com/suranis/quickmods/master/Translocator.json",
+        "tc.neiplugins": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIPlugins.json",
+        "tc.neiaddons": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIAddons.json",
+        "tc.forgemultipart": "https://raw.githubusercontent.com/suranis/quickmods/master/ForgeMultipart.json",
+        "tc.cofhcore": "https://raw.githubusercontent.com/suranis/quickmods/master/CofhCore.json",
+        "tc.thermalfoundation": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalFoundation.json",
+        "tc.cofhlib": "https://raw.githubusercontent.com/suranis/quickmods/master/CofhLib.json",
+        "tc.thermalexpansion": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalExpansion.json",
+        "tc.redstonearsenal": "https://raw.githubusercontent.com/suranis/quickmods/master/RedstoneArsenal.json",
+        "tc.minefactoryreloaded": "https://raw.githubusercontent.com/suranis/quickmods/master/MinefactoryReloaded.json"
     },
-    "repo": "suranis/quickmods",
-    "tags": [
-        "FTB"
-    ],
+    "repo": "suranis.quickmods",
     "uid": "tc.modpack",
     "updateUrl": "https: //raw.githubusercontent.com/suranis/quickmods/master/modpack.json",
     "urls": {
@@ -38,7 +44,6 @@
     },
     "versions": [
         {
-            "forgeCompat": "(10.13.1.1216,]",
             "installType": "extract",
             "mcCompat": [
                 "1.7.10"
@@ -47,30 +52,75 @@
             "references": [
                 {
                     "type": "depends",
-                    "uid": "codechicken.core",
+                    "uid": "tc.codechickencore",
                     "version": "1.0.3.26"
                 },
                 {
                     "type": "depends",
-                    "uid": "codechicken.nei",
+                    "uid": "tc.nei",
                     "version": "1.0.3.56"
                 },
                 {
                     "type": "depends",
-                    "uid": "codechicken.enderstorage",
+                    "uid": "tc.enderstorage",
                     "version": "1.4.5.24"
                 },
                 {
                     "type": "depends",
-                    "uid": "codechicken.translocator",
+                    "uid": "tc.translocator",
                     "version": "1.1.1.12"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.neiplugins",
+                    "version": "1.1.0.8"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.neiaddons",
+                    "version": "1.12.2.9"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.forgemultipart",
+                    "version": "1.1.0.306"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.cofhcore",
+                    "version": "3.0.0B6-32"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.thermalfoundation",
+                    "version": "1.0.0B3-8"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.cofhlib",
+                    "version": "1.0.0B6-26"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.thermalexpansion",
+                    "version": "4.0.0B5-13"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.redstonearsenal",
+                    "version": "1.1.0B4-10"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tc.minefactoryreloaded",
+                    "version": "2.8.0RC3-591"
                 }
             ],
             "type": "Release",
             "urls": [
                 {
                     "downloadType": "direct",
-                    "url": "https://raw.githubusercontent.com/suranis/quickmods/master/modpackfiles.zip"
+                    "url": "https://rawgit.com/suranis/quickmods/master/modpackfiles.zip"
                 }
             ]
         }

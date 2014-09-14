@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.minefactoryreloaded",
+    "repo": "suranis.quickmods",
+    "modId": "minefactoryreloaded",
+    "name": "MinefactoryReloaded",
+    "updateUrl": "https://raw.githubusercontent.com/suranis/quickmods/master/MinefactoryReloaded.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "2.8.0RC3-591",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/2213047",
+                    "downloadType": "parallel"
+                }
+            ]
+        }
+    ]
+}

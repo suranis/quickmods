@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.template1",
+    "uid": "tc.cofhlib",
     "repo": "suranis.quickmods",
-    "modId": "template1",
-    "name": "Template2",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Template2.json",
+    "modId": "cofhlib",
+    "name": "CofhLib",
+    "updateUrl": "https://raw.githubusercontent.com/suranis/quickmods/master/CofhLib.json",
     "tags": [
         "Modpack"
     ],
@@ -16,12 +16,12 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "",
+            "name": "1.0.0B6-26",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "",
-                    "downloadType": "direct"
+                    "url": "http://www.curse.com/mc-mods/minecraft/220333-cofhlib/2212894",
+                    "downloadType": "parallel"
                 }
             ]
         }
