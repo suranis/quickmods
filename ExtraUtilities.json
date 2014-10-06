@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.extrautilities",
+    "repo": "suranis.quickmods",
+    "modId": "extrautilities",
+    "name": "ExtraUtilities",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/ExtraUtilities.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.1.0k",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://www.mediafire.com/download/2vhc0xfxfucm902/extrautilities-1.1.0k.jar",
+                    "downloadType": "parallel"
+                }
+            ]
+        }
+    ]
+}

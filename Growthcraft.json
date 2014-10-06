@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.growthcraft",
+    "repo": "suranis.quickmods",
+    "modId": "growthcraft",
+    "name": "Growthcraft",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Growthcraft.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "2.1.0a",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "https://www.dropbox.com/s/tbqtbtbho9evsun/Growthcraft-1.7.10.zip?dl=1",
+                    "downloadType": "parallel"
+                }
+            ]
+        }
+    ]
+}

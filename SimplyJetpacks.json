@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.simplyjetpacks",
+    "repo": "suranis.quickmods",
+    "modId": "simplyjetpacks",
+    "name": "SimplyJetpacks",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/SimplyJetpacks.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.1.4",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://addons.cursecdn.com/files/2215/671/SimplyJetpacks-MC1.7.10-1.1.4.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.thermalfoundation",
+    "repo": "suranis.quickmods",
+    "modId": "thermalfoundation",
+    "name": "ThermalFoundation",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/ThermalFoundation.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.0.0_b3-8",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://addons.curse.cursecdn.com/files/2212/445/ThermalFoundation-[1.7.10]1.0.0B3-8.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

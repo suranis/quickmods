@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.mantle",
+    "repo": "suranis.quickmods",
+    "modId": "mantle",
+    "name": "Mantle",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Mantle.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "0.3.1",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://addons.cursecdn.com/files/2212/809/Mantle-mc1.7.10-0.3.1.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

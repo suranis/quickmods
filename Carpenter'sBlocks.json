@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.carpentersblocks",
+    "repo": "suranis.quickmods",
+    "modId": "carpentersblocks",
+    "name": "Carpenter'sBlocks",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Carpenter'sBlocks.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "3.3.0",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "https://www.dropbox.com/s/dedoqr8fr8n68qu/Carpenter%27s%20Blocks%20v3.3.0%20-%20MC%201.7.10.jar?dl=1",
+                    "downloadType": "parallel"
+                }
+            ]
+        }
+    ]
+}

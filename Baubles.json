@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.baubles",
+    "repo": "suranis.quickmods",
+    "modId": "baubles",
+    "name": "Baubles",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Baubles.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.0.1.18",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "https://dl.dropboxusercontent.com/u/47135879/Baubles-1.7.10-1.0.1.8.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.openeye",
+    "repo": "suranis.quickmods",
+    "modId": "openeye",
+    "name": "OpenEye",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/OpenEye.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "0.6",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.6-1.7.10.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

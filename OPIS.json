@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.opis",
+    "repo": "suranis.quickmods",
+    "modId": "opis",
+    "name": "OPIS",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/OPIS.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.2.3",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://addons.cursecdn.com/files/2212/733/Opis-1.2.3_1.7.10.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

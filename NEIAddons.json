@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.neiaddons",
+    "repo": "suranis.quickmods",
+    "modId": "neiaddons",
+    "name": "NEIAddons",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/NEIAddons.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.12.2",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://bdew.net/download/neiaddons-mc1710-1.12.2.9.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

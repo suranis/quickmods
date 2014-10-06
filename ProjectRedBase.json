@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.projectredbase",
+    "repo": "suranis.quickmods",
+    "modId": "projectredbase",
+    "name": "ProjectRedBase",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/ProjectRedBase.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "4.5.0_b50",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://ci.indiewikis.com:8080/job/Project%20Red/50/artifact/build/libs/ProjectRed-Base-1.7.10-4.5.0.50.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

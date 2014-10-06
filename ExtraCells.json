@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.extracells",
+    "repo": "suranis.quickmods",
+    "modId": "extracells",
+    "name": "ExtraCells",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/ExtraCells.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "2.1.12",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://shadowcity.net:8080/job/ecrv1/9/artifact/build/libs/ExtraCells-1.7.10-2.1.12b9.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

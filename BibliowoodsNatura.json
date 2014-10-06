@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.bibliowoodsnatura",
+    "repo": "suranis.quickmods",
+    "modId": "bibliowoodsnatura",
+    "name": "BibliowoodsNatura",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/BibliowoodsNatura.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.4",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://www.bibliocraftmod.com/releases/BiblioWoods[Natura][v1.4].jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}

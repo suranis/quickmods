@@ -1,0 +1,29 @@
+{
+    "formatVersion": 1,
+    "uid": "tc.hats",
+    "repo": "suranis.quickmods",
+    "modId": "hats",
+    "name": "Hats",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Hats.json",
+    "tags": [
+        "Modpack"
+    ],
+    "catagories": [
+        "Modpack"
+    ],
+    "versions": [
+        {
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "4.0.1",
+            "installType": "forgeMod",
+            "urls": [
+                {
+                    "url": "http://www.creeperrepo.net/ichun/files/Hats-4.0.1.jar",
+                    "downloadType": "direct"
+                }
+            ]
+        }
+    ]
+}
