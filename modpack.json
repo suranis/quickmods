@@ -57,7 +57,6 @@
         "tc.enchantingplus": "https://rawgit.com/suranis/quickmods/master/EnchantingPlus.json",
         "tc.extracells": "https://rawgit.com/suranis/quickmods/master/ExtraCells.json",
         "tc.forestry": "https://rawgit.com/suranis/quickmods/master/Forestry.json",
-        "tc.forgemultipart": "https://rawgit.com/suranis/quickmods/master/ForgeMultipart.json",
         "tc.remoteio": "https://rawgit.com/suranis/quickmods/master/RemoteIO.json",
         "tc.mffs": "https://rawgit.com/suranis/quickmods/master/MFFS.json",
         "tc.ironchests": "https://rawgit.com/suranis/quickmods/master/IronChests.json",
@@ -77,7 +76,6 @@
         "tc.opis": "https://rawgit.com/suranis/quickmods/master/OPIS.json",
         "tc.magicbees": "https://rawgit.com/suranis/quickmods/master/MagicBees.json",
         "tc.numina": "https://rawgit.com/suranis/quickmods/master/Numina.json",
-        "tc.baubles": "https://rawgit.com/suranis/quickmods/master/Baubles.json",
         "tc.mobiuscore": "https://rawgit.com/suranis/quickmods/master/MobiusCore.json",
         "tc.bibliowoodsforestry": "https://rawgit.com/suranis/quickmods/master/BibliowoodsForestry.json",
         "tc.bibliowoodsnatura": "https://rawgit.com/suranis/quickmods/master/BibliowoodsNatura.json"
@@ -321,11 +319,6 @@
                 },
                 {
                     "type": "depends",
-                    "uid": "tc.forgemultipart",
-                    "version": "1.1.0.310"
-                },
-                {
-                    "type": "depends",
                     "uid": "tc.remoteio",
                     "version": "1.4.3_b49"
                 },
@@ -418,11 +411,6 @@
                     "type": "depends",
                     "uid": "tc.numina",
                     "version": "0.4.0.87"
-                },
-                {
-                    "type": "depends",
-                    "uid": "tc.baubles",
-                    "version": "1.0.1.18"
                 },
                 {
                     "type": "depends",
