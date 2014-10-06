@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.projectredworld",
     "repo": "suranis.quickmods",
-    "modId": "projectredworld",UID
+    "modId": "projectredworld",
     "name": "ProjectRedWorld",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ProjectRedWorld.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://ci.indiewikis.com:8080/job/Project%20Red/50/artifact/build/libs/ProjectRed-World-1.7.10-4.5.0.50.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

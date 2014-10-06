@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.simplyjetpacks",
     "repo": "suranis.quickmods",
-    "modId": "simplyjetpacks",UID
+    "modId": "simplyjetpacks",
     "name": "SimplyJetpacks",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/SimplyJetpacks.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2215/671/SimplyJetpacks-MC1.7.10-1.1.4.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

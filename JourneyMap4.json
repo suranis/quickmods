@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.journeymap4",
     "repo": "suranis.quickmods",
-    "modId": "journeymap4",UID
+    "modId": "journeymap4",
     "name": "JourneyMap4",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/JourneyMap4.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2215/529/JourneyMap4.0.5_Unlimited_MC1.7.10.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

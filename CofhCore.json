@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.cofhcore",
     "repo": "suranis.quickmods",
-    "modId": "cofhcore",UID
+    "modId": "cofhcore",
     "name": "COFHCore",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/COFHCore.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2212/896/CoFHCore-[1.7.10]3.0.0B6-32.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

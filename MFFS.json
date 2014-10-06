@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.mffs",
     "repo": "suranis.quickmods",
-    "modId": "mffs",UID
+    "modId": "mffs",
     "name": "MFFS",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/MFFS.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://calclavia.com/maven/dev/calclavia/mffs/mffs/4.1.0.31/mffs-4.1.0.31-core.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

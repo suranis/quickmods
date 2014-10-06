@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.tinkersconstruct",
     "repo": "suranis.quickmods",
-    "modId": "tinkersconstruct",UID
+    "modId": "tinkersconstruct",
     "name": "TinkersConstruct",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/TinkersConstruct.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2215/281/TConstruct-1.7.10-1.7.0d3.1.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

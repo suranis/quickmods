@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.enchantingplus",
     "repo": "suranis.quickmods",
-    "modId": "enchantingplus",UID
+    "modId": "enchantingplus",
     "name": "EnchantingPlus",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnchantingPlus.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2215/382/EnchantingPlus-1.7.10-3.0.1.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

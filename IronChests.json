@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.ironchests",
     "repo": "suranis.quickmods",
-    "modId": "ironchests",UID
+    "modId": "ironchests",
     "name": "IronChests",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/IronChests.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://files.minecraftforge.net/maven/cpw/mods/ironchest/1.7.10-6.0.62.742/ironchest-1.7.10-6.0.62.742-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

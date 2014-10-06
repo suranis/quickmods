@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.redstonearsenal",
     "repo": "suranis.quickmods",
-    "modId": "redstonearsenal",UID
+    "modId": "redstonearsenal",
     "name": "RedstoneArsenal",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/RedstoneArsenal.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2212/449/RedstoneArsenal-[1.7.10]1.1.0B4-10.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

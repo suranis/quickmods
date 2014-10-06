@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.remoteio",
     "repo": "suranis.quickmods",
-    "modId": "remoteio",UID
+    "modId": "remoteio",
     "name": "RemoteIO",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/RemoteIO.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2215/121/RemoteIO-1.7.10-1.4.3.B49-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

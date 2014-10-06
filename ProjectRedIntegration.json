@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.projectredintegration",
     "repo": "suranis.quickmods",
-    "modId": "projectredintegration",UID
+    "modId": "projectredintegration",
     "name": "ProjectRedIntegration",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ProjectRedIntegration.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://ci.indiewikis.com:8080/job/Project%20Red/50/artifact/build/libs/ProjectRed-Integration-1.7.10-4.5.0.50.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

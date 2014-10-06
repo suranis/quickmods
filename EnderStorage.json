@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.enderstorage",
     "repo": "suranis.quickmods",
-    "modId": "enderstorage",UID
+    "modId": "enderstorage",
     "name": "EnderStorage",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnderStorage.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://chickenbones.net/maven/codechicken/EnderStorage/1.7.10-1.4.5.24/EnderStorage-1.7.10-1.4.5.24-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

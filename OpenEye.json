@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.openeye",
     "repo": "suranis.quickmods",
-    "modId": "openeye",UID
+    "modId": "openeye",
     "name": "OpenEye",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/OpenEye.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.6-1.7.10.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

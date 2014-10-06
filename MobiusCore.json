@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.mobiuscore",
     "repo": "suranis.quickmods",
-    "modId": "mobiuscore",UID
+    "modId": "mobiuscore",
     "name": "MobiusCore",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/MobiusCore.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2212/730/MobiusCore-1.2.3_1.7.10.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.neiaddons",
     "repo": "suranis.quickmods",
-    "modId": "neiaddons",UID
+    "modId": "neiaddons",
     "name": "NEIAddons",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/NEIAddons.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://bdew.net/download/neiaddons-mc1710-1.12.2.9.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

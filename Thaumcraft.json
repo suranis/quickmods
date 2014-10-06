@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.thaumcraft",
     "repo": "suranis.quickmods",
-    "modId": "thaumcraft",UID
+    "modId": "thaumcraft",
     "name": "Thaumcraft",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Thaumcraft.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2215/836/Thaumcraft-1.7.10-4.2.1.1.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

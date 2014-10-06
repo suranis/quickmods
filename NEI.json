@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.nei",
     "repo": "suranis.quickmods",
-    "modId": "nei",UID
+    "modId": "nei",
     "name": "NEI",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/NEI.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.3.60/NotEnoughItems-1.7.10-1.0.3.60-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

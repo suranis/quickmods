@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.carpentersblocks",
     "repo": "suranis.quickmods",
-    "modId": "carpentersblocks",UID
+    "modId": "carpentersblocks",
     "name": "Carpenter'sBlocks",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Carpenter'sBlocks.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "https://www.dropbox.com/s/dedoqr8fr8n68qu/Carpenter%27s%20Blocks%20v3.3.0%20-%20MC%201.7.10.jar?dl=1",
                     "downloadType": "parallel"
                 }
-            ],
+            ]
         }
     ]
 }

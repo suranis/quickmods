@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.thamictinkerer",
     "repo": "suranis.quickmods",
-    "modId": "thamictinkerer",UID
+    "modId": "thamictinkerer",
     "name": "ThamicTinkerer",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ThamicTinkerer.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2213/318/ThaumicTinkerer-2.5-1.7.10-158.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

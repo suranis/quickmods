@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.bibliocraft",
     "repo": "suranis.quickmods",
-    "modId": "bibliocraft",UID
+    "modId": "bibliocraft",
     "name": "Bibliocraft",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Bibliocraft.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.bibliocraftmod.com/releases/BiblioCraft[v1.8.2][MC1.7.10].jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

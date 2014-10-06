@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.magicbees",
     "repo": "suranis.quickmods",
-    "modId": "magicbees",UID
+    "modId": "magicbees",
     "name": "MagicBees",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/MagicBees.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "https://bitbucket.org/Arkandos/magic-bees/downloads/magicbees-1.7.10-2.1.21.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

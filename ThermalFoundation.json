@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.thermalfoundation",
     "repo": "suranis.quickmods",
-    "modId": "thermalfoundation",UID
+    "modId": "thermalfoundation",
     "name": "ThermalFoundation",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ThermalFoundation.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2212/445/ThermalFoundation-[1.7.10]1.0.0B3-8.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

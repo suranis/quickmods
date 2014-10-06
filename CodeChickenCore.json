@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.codechickencore",
     "repo": "suranis.quickmods",
-    "modId": "codechickencore",UID
+    "modId": "codechickencore",
     "name": "CodeChickenCore",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.3.28/CodeChickenCore-1.7.10-1.0.3.28-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.baubles",
     "repo": "suranis.quickmods",
-    "modId": "baubles",UID
+    "modId": "baubles",
     "name": "Baubles",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Baubles.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "https://dl.dropboxusercontent.com/u/47135879/Baubles-1.7.10-1.0.1.8.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.natura",
     "repo": "suranis.quickmods",
-    "modId": "natura",UID
+    "modId": "natura",
     "name": "Natura",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Natura.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2207/144/natura-1.7.10-2.2.0-b1.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

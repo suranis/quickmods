@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.projectredmechanicalbeta",
     "repo": "suranis.quickmods",
-    "modId": "projectredmechanicalbeta",UID
+    "modId": "projectredmechanicalbeta",
     "name": "ProjectRedMechanical_beta",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ProjectRedMechanical_beta.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://ci.indiewikis.com:8080/job/Project%20Red/50/artifact/build/libs/ProjectRed-Mechanical_beta-1.7.10-4.5.0.50.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

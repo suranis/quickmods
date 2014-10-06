@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.growthcraft",
     "repo": "suranis.quickmods",
-    "modId": "growthcraft",UID
+    "modId": "growthcraft",
     "name": "Growthcraft",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Growthcraft.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "https://www.dropbox.com/s/tbqtbtbho9evsun/Growthcraft-1.7.10.zip?dl=1",
                     "downloadType": "parallel"
                 }
-            ],
+            ]
         }
     ]
 }

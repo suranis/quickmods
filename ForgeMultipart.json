@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.forgemultipart",
     "repo": "suranis.quickmods",
-    "modId": "forgemultipart",UID
+    "modId": "forgemultipart",
     "name": "ForgeMultipart",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ForgeMultipart.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://files.minecraftforge.net/maven/codechicken/ForgeMultipart/1.7.10-1.1.0.310/ForgeMultipart-1.7.10-1.1.0.310-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

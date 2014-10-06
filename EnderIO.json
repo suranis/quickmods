@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.enderio",
     "repo": "suranis.quickmods",
-    "modId": "enderio",UID
+    "modId": "enderio",
     "name": "EnderIO",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnderIO.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2215/827/EnderIO-1.7.10-2.1.0.223.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

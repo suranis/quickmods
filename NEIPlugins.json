@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.neiplugins",
     "repo": "suranis.quickmods",
-    "modId": "neiplugins",UID
+    "modId": "neiplugins",
     "name": "NEIPLugins",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/NEIPLugins.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.mediafire.com/download/k87io577lg2m43p/NEIPlugins-MC1.7.10-1.1.0.11-unofficial.jar",
                     "downloadType": "parallel"
                 }
-            ],
+            ]
         }
     ]
 }

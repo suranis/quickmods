@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.chisel",
     "repo": "suranis.quickmods",
-    "modId": "chisel",UID
+    "modId": "chisel",
     "name": "Chisel",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Chisel.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.mediafire.com/download/dtjbhbig28uj8i7/chisel-1.6.4-1.5.0fix.jar",
                     "downloadType": "parallel"
                 }
-            ],
+            ]
         }
     ]
 }

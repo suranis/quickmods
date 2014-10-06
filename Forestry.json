@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.forestry",
     "repo": "suranis.quickmods",
-    "modId": "forestry",UID
+    "modId": "forestry",
     "name": "Forestry",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Forestry.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2215/660/forestry_1.7.10-3.1.0.3.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.hats",
     "repo": "suranis.quickmods",
-    "modId": "hats",UID
+    "modId": "hats",
     "name": "Hats",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Hats.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.creeperrepo.net/ichun/files/Hats-4.0.1.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

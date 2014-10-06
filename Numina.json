@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.numina",
     "repo": "suranis.quickmods",
-    "modId": "numina",UID
+    "modId": "numina",
     "name": "Numina",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Numina.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://build.technicpack.net/view/MachineMuse/job/Numina/87/artifact/build/libs/Numina-0.4.0.87.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

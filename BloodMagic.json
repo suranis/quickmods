@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.bloodmagic",
     "repo": "suranis.quickmods",
-    "modId": "bloodmagic",UID
+    "modId": "bloodmagic",
     "name": "BloodMagic",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/BloodMagic.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "https://www.dropbox.com/s/0xtjcs9nxxs9znb/Blood%20Magic-v1.1.0(1.7.10).jar?dl=1",
                     "downloadType": "parallel"
                 }
-            ],
+            ]
         }
     ]
 }

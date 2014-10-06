@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.witchery",
     "repo": "suranis.quickmods",
-    "modId": "wiery",UID
+    "modId": "wiery",
     "name": "Witchery",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Witchery.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2214/973/witchery-1.7.10-0.20.6.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

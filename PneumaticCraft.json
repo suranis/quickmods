@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.pneumaticcraft",
     "repo": "suranis.quickmods",
-    "modId": "pneumaticcraft",UID
+    "modId": "pneumaticcraft",
     "name": "PneumaticCraft",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/PneumaticCraft.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2215/535/PneumaticCraft-1.7.10-1.2.9-24-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.bibliowoodsforestry",
     "repo": "suranis.quickmods",
-    "modId": "bibliowoodsforestry",UID
+    "modId": "bibliowoodsforestry",
     "name": "BibliowoodsForestry",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/BibliowoodsForestry.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.bibliocraftmod.com/releases/BiblioWoods[Forestry][v1.6].jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

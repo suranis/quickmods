@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.wrcbe",
     "repo": "suranis.quickmods",
-    "modId": "wrcbe",UID
+    "modId": "wrcbe",
     "name": "WR-CBE",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/WR-CBE.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://chickenbones.net/maven/codechicken/WR-CBE/1.7.10-1.4.1.4/WR-CBE-1.7.10-1.4.1.4-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

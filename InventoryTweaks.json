@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.inventorytweaks",
     "repo": "suranis.quickmods",
-    "modId": "inventorytweaks",UID
+    "modId": "inventorytweaks",
     "name": "InventoryTweaks",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/InventoryTweaks.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://build.technicpack.net/job/Inventory-Tweaks/147/artifact/build/libs/InventoryTweaks-1.58-147.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

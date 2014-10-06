@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.bigreactors",
     "repo": "suranis.quickmods",
-    "modId": "bigreactors",UID
+    "modId": "bigreactors",
     "name": "BigReactors",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/BigReactors.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.big-reactors.com/download/alpha/BigReactors-0.4.0rc9.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

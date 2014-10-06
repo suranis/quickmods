@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.hatsstand",
     "repo": "suranis.quickmods",
-    "modId": "hatsstand",UID
+    "modId": "hatsstand",
     "name": "HatsStand",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/HatsStand.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.creeperrepo.net/ichun/files/HatStand-4.0.0.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

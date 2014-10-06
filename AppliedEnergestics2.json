@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.appliedenergestics2",
     "repo": "suranis.quickmods",
-    "modId": "appliedenergestics2",UID
+    "modId": "appliedenergestics2",
     "name": "AppliedEnergestics2",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/AppliedEnergestics2.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2214/847/appliedenergistics2-rv1-stable-1.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

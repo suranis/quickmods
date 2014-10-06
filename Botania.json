@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.botania",
     "repo": "suranis.quickmods",
-    "modId": "botania",UID
+    "modId": "botania",
     "name": "Botania",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Botania.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://vazkii.us/mod/Botania/files/Botania%20r1.2-121.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

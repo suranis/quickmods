@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.jabba",
     "repo": "suranis.quickmods",
-    "modId": "jabba",UID
+    "modId": "jabba",
     "name": "JABBA",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/JABBA.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2209/73/Jabba-1.1.4_1.7.10.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

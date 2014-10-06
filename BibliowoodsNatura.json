@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.bibliowoodsnatura",
     "repo": "suranis.quickmods",
-    "modId": "bibliowoodsnatura",UID
+    "modId": "bibliowoodsnatura",
     "name": "BibliowoodsNatura",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/BibliowoodsNatura.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.bibliocraftmod.com/releases/BiblioWoods[Natura][v1.4].jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

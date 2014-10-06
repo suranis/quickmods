@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.opis",
     "repo": "suranis.quickmods",
-    "modId": "opis",UID
+    "modId": "opis",
     "name": "OPIS",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/OPIS.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.cursecdn.com/files/2212/733/Opis-1.2.3_1.7.10.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

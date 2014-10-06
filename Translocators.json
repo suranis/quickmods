@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.translocators",
     "repo": "suranis.quickmods",
-    "modId": "translocators",UID
+    "modId": "translocators",
     "name": "Translocators",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Translocators.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://chickenbones.net/maven/codechicken/Translocator/1.7.10-1.1.1.12/Translocator-1.7.10-1.1.1.12-universal.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

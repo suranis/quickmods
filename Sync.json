@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.sync",
     "repo": "suranis.quickmods",
-    "modId": "sync",UID
+    "modId": "sync",
     "name": "Sync",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/Sync.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.creeperrepo.net/ichun/files/Sync-4.0.0.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.aobd2",
     "repo": "suranis.quickmods",
-    "modId": "aobd2",UID
+    "modId": "aobd2",
     "name": "AOBD2",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/AOBD2.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2213/162/AOBD-2.2.4.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

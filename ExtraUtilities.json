@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.extrautilities",
     "repo": "suranis.quickmods",
-    "modId": "extrautilities",UID
+    "modId": "extrautilities",
     "name": "ExtraUtilities",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ExtraUtilities.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.mediafire.com/download/2vhc0xfxfucm902/extrautilities-1.1.0k.jar",
                     "downloadType": "parallel"
                 }
-            ],
+            ]
         }
     ]
 }

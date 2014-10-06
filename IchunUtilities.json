@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.ichunutilities",
     "repo": "suranis.quickmods",
-    "modId": "ichunutilities",UID
+    "modId": "ichunutilities",
     "name": "IchunUtilities",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/IchunUtilities.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://www.creeperrepo.net/ichun/util/iChunUtil-4.0.0.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

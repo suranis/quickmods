@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.mfr",
     "repo": "suranis.quickmods",
-    "modId": "mfr",UID
+    "modId": "mfr",
     "name": "MFR",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/MFR.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2213/47/MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.cofhlib",
     "repo": "suranis.quickmods",
-    "modId": "cofhlib",UID
+    "modId": "cofhlib",
     "name": "COFHLib",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/COFHLib.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2212/894/CoFHLib-[1.7.10]1.0.0B6-26.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }

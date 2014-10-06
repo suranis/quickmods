@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "uid": "tc.thermalexpansion",
     "repo": "suranis.quickmods",
-    "modId": "thermalexpansion",UID
+    "modId": "thermalexpansion",
     "name": "ThermalExpansion",
     "updateUrl": "https://rawgit.com/suranis/quickmods/master/ThermalExpansion.json",
     "tags": [
@@ -23,7 +23,7 @@
                     "url": "http://addons.curse.cursecdn.com/files/2212/447/ThermalExpansion-[1.7.10]4.0.0B5-13.jar",
                     "downloadType": "direct"
                 }
-            ],
+            ]
         }
     ]
 }
