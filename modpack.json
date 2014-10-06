@@ -14,19 +14,73 @@
     "name": "Technomancers Collective",
     "nemName": "",
     "references": {
-        "tc.codechickencore": "https://raw.githubusercontent.com/suranis/quickmods/master/CodeChickenCore.json",
-        "tc.nei": "https://raw.githubusercontent.com/suranis/quickmods/master/NotEnoughItems.json",
-        "tc.enderstorage": "https://raw.githubusercontent.com/suranis/quickmods/master/EnderStorage.json",
-        "tc.translocator": "https://raw.githubusercontent.com/suranis/quickmods/master/Translocator.json",
-        "tc.neiplugins": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIPlugins.json",
-        "tc.neiaddons": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIAddons.json",
-        "tc.forgemultipart": "https://raw.githubusercontent.com/suranis/quickmods/master/ForgeMultipart.json",
-        "tc.cofhcore": "https://raw.githubusercontent.com/suranis/quickmods/master/CofhCore.json",
-        "tc.thermalfoundation": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalFoundation.json",
-        "tc.cofhlib": "https://raw.githubusercontent.com/suranis/quickmods/master/CofhLib.json",
-        "tc.thermalexpansion": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalExpansion.json",
-        "tc.redstonearsenal": "https://raw.githubusercontent.com/suranis/quickmods/master/RedstoneArsenal.json",
-        "tc.minefactoryreloaded": "https://raw.githubusercontent.com/suranis/quickmods/master/MinefactoryReloaded.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ExtraUtilities.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/CodeChickenCore.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/EnderStorage.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/NEI.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIAddons.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/NEIPLugins.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/TinkersConstruct.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Mantle.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Natura.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/AOBD2.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/AppliedEnergestics2.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/COFHCore.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalFoundation.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalExpansion.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/RedstoneArsenal.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/MFR.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/COFHLib.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Thaumcraft.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ThamicTinkerer.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ForbiddenMagic.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ChickenChunks.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Translocators.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/WR-CBE.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/EnderIO.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Chisel.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Carpenter'sBlocks.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Autoutils.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/BloodMagic.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Factorisation.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ProjectRedBase.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ProjectRedCompat.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ProjectRedIntegration.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ProjectRedLighting.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ProjectRedMechanical_beta.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ProjectRedWorld.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Growthcraft.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Bibliocraft.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Sync.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Hats.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/HatsStand.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/EnchantingPlus.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ExtraCells.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Forestry.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/ForgeMultipart.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/RemoteIO.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/MFFS.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/IronChests.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Witchery.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/OpenEye.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/PneumaticCraft.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/BigReactors.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/IchunUtilities.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/InventoryTweaks.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/OpenComputers.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/SimplyJetpacks.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Binnie'sMods.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Botania.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/JourneyMap4.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/JABBA.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/WAILA.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/OPIS.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/MagicBees.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Numina.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/Baubles.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/MobiusCore.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/BibliowoodsForestry.json"
+        "tc.bibliowoodsnatura": "https://raw.githubusercontent.com/suranis/quickmods/master/BibliowoodsNatura.json"
     },
     "repo": "suranis.quickmods",
     "uid": "tc.modpack",
@@ -39,7 +93,7 @@
             "https://raw.githubusercontent.com/suranis/quickmods/master/modpackicon.png"
         ],
         "website": [
-            "http://www.technomancers-collective.com"
+            "http://www.techno-c.net"
         ]
     },
     "versions": [
@@ -48,72 +102,342 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "6.0",
+            "name": "0.1",
             "references": [
                 {
-                    "type": "depends",
+                    "type": "depends";
+                    "uid": "tc.extrautilities",
+                    "version": "1.1.0k"
+                },
+                {
+                    "type": "depends";
                     "uid": "tc.codechickencore",
-                    "version": "1.0.3.26"
+                    "version": "1.0.3.28"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.nei",
-                    "version": "1.0.3.56"
-                },
-                {
-                    "type": "depends",
+                    "type": "depends";
                     "uid": "tc.enderstorage",
                     "version": "1.4.5.24"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.translocator",
+                    "type": "depends";
+                    "uid": "tc.nei",
+                    "version": "1.0.3.60"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.neiaddons",
+                    "version": "1.12.2"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.neiplugins",
+                    "version": "1.1.0.11"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.tinkersconstruct",
+                    "version": "1.7.0d3.1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.mantle",
+                    "version": "0.3.1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.natura",
+                    "version": "2.2.0-b1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.aobd2",
+                    "version": "2.2.4"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.appliedenergestics2",
+                    "version": "rv1-s1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.cofhcore",
+                    "version": "3.0.0_b6-32"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.thermalfoundation",
+                    "version": "1.0.0_b3-8"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.thermalexpansion",
+                    "version": "4.0.0_b5-13"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.redstonearsenal",
+                    "version": "1.1.0_b4-10"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.mfr",
+                    "version": "2.8.0_rc3-591"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.cofhlib",
+                    "version": "1.0.0_b6-26"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.thaumcraft",
+                    "version": "4.2.1.1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.thamictinkerer",
+                    "version": "2.5-7_1.7.10-158"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.forbiddenmagic",
+                    "version": "0.52"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.chickenchunks",
+                    "version": "1.3.4.13"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.translocators",
                     "version": "1.1.1.12"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.neiplugins",
-                    "version": "1.1.0.8"
+                    "type": "depends";
+                    "uid": "tc.wrcbe",
+                    "version": "1.4.1.4"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.neiaddons",
-                    "version": "1.12.2.9"
+                    "type": "depends";
+                    "uid": "tc.enderio",
+                    "version": "2.1.0.223"
                 },
                 {
-                    "type": "depends",
+                    "type": "depends";
+                    "uid": "tc.chisel",
+                    "version": "1.5.0"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.carpentersblocks",
+                    "version": "3.3.0"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.autoutils",
+                    "version": "1.0.1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.bloodmagic",
+                    "version": "1.1.0"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.factorisation",
+                    "version": "0.8.88.2"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.projectredbase",
+                    "version": "4.5.0_b50"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.projectredcompat",
+                    "version": "4.5.0_b50"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.projectredintegration",
+                    "version": "4.5.0_b50"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.projectredlighting",
+                    "version": "4.5.0_b50"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.projectredmechanicalbeta",
+                    "version": "4.5.0_b50"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.projectredworld",
+                    "version": "4.5.0_b50"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.growthcraft",
+                    "version": "2.1.0a"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.bibliocraft",
+                    "version": "1.8.2"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.sync",
+                    "version": "4.0.0"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.hats",
+                    "version": "4.0.1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.hatsstand",
+                    "version": "4.0.0"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.enchantingplus",
+                    "version": "3.0.1"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.extracells",
+                    "version": "2.1.12"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.forestry",
+                    "version": "3.1.0.3"
+                },
+                {
+                    "type": "depends";
                     "uid": "tc.forgemultipart",
-                    "version": "1.1.0.306"
+                    "version": "1.1.0.310"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.cofhcore",
-                    "version": "3.0.0B6-32"
+                    "type": "depends";
+                    "uid": "tc.remoteio",
+                    "version": "1.4.3_b49"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.thermalfoundation",
-                    "version": "1.0.0B3-8"
+                    "type": "depends";
+                    "uid": "tc.mffs",
+                    "version": "4.1.0.31"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.cofhlib",
-                    "version": "1.0.0B6-26"
+                    "type": "depends";
+                    "uid": "tc.ironchests",
+                    "version": "6.0.62.742"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.thermalexpansion",
-                    "version": "4.0.0B5-13"
+                    "type": "depends";
+                    "uid": "tc.witchery",
+                    "version": "0.20.6"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.redstonearsenal",
-                    "version": "1.1.0B4-10"
+                    "type": "depends";
+                    "uid": "tc.openeye",
+                    "version": "0.6"
                 },
                 {
-                    "type": "depends",
-                    "uid": "tc.minefactoryreloaded",
-                    "version": "2.8.0RC3-591"
+                    "type": "depends";
+                    "uid": "tc.pneumaticcraft",
+                    "version": "1.2.9-24"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.bigreactors",
+                    "version": "0.4.0rc9"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.ichunutilities",
+                    "version": "4.0.0"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.inventorytweaks",
+                    "version": "1.58"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.opencomputers",
+                    "version": "1.3.5"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.simplyjetpacks",
+                    "version": "1.1.4"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.binniesmods",
+                    "version": "2.0_d5"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.botania",
+                    "version": "1.2_b121"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.journeymap4",
+                    "version": "4.0.5"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.jabba",
+                    "version": "1.1.4"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.waila",
+                    "version": "1.5.5"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.opis",
+                    "version": "1.2.3"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.magicbees",
+                    "version": "2.1.21"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.numina",
+                    "version": "0.4.0.87"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.baubles",
+                    "version": "1.0.1.18"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.mobiuscore",
+                    "version": "1.2.3"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.bibliowoodsforestry",
+                    "version": "1.6"
+                },
+                {
+                    "type": "depends";
+                    "uid": "tc.bibliowoodsnatura",
+                    "version": "1.4"
                 }
             ],
             "type": "Release",

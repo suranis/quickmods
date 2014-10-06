@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.enderstorage",
+    "uid": "tc.projectredintegration",
     "repo": "suranis.quickmods",
-    "modId": "enderstorage",UID
-    "name": "EnderStorage",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnderStorage.json",
+    "modId": "projectredintegration",UID
+    "name": "ProjectRedIntegration",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/ProjectRedIntegration.json",
     "tags": [
         "Modpack"
     ],
@@ -16,11 +16,11 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.4.5.24",
+            "name": "4.5.0_b50",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://chickenbones.net/maven/codechicken/EnderStorage/1.7.10-1.4.5.24/EnderStorage-1.7.10-1.4.5.24-universal.jar",
+                    "url": "http://ci.indiewikis.com:8080/job/Project%20Red/50/artifact/build/libs/ProjectRed-Integration-1.7.10-4.5.0.50.jar",
                     "downloadType": "direct"
                 }
             ],

@@ -1,19 +1,16 @@
 {
     "formatVersion": 1,
-    "uid": "tc.translocator",
+    "uid": "tc.translocators",
     "repo": "suranis.quickmods",
-    "modId": "translocator",
-    "name": "Translocator",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Translocator.json",
+    "modId": "translocators",UID
+    "name": "Translocators",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Translocators.json",
     "tags": [
         "Modpack"
     ],
     "catagories": [
         "Modpack"
     ],
-    "references": {
-        "tc.codechickencore": "https://rawgit.com/suranis/quickmods/master/CodeChickenCore.json"
-    },
     "versions": [
         {
             "mcCompat": [
@@ -27,13 +24,6 @@
                     "downloadType": "direct"
                 }
             ],
-            "references": [
-                {
-                    "uid": "tc.codechickencore",
-                    "version": "1.0.3.26",
-                    "type": "depends"
-                }
-            ]
         }
     ]
 }

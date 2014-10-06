@@ -2,9 +2,9 @@
     "formatVersion": 1,
     "uid": "tc.redstonearsenal",
     "repo": "suranis.quickmods",
-    "modId": "redstonearsenal",
+    "modId": "redstonearsenal",UID
     "name": "RedstoneArsenal",
-    "updateUrl": "https://raw.githubusercontent.com/suranis/quickmods/master/RedstoneArsenal.json",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/RedstoneArsenal.json",
     "tags": [
         "Modpack"
     ],
@@ -16,14 +16,14 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.1.0B4-10",
+            "name": "1.1.0_b4-10",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://www.curse.com/mc-mods/minecraft/redstone-arsenal/2212449",
-                    "downloadType": "parallel"
+                    "url": "http://addons.curse.cursecdn.com/files/2212/449/RedstoneArsenal-[1.7.10]1.1.0B4-10.jar",
+                    "downloadType": "direct"
                 }
-            ]
+            ],
         }
     ]
 }

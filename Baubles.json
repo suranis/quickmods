@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.enderstorage",
+    "uid": "tc.baubles",
     "repo": "suranis.quickmods",
-    "modId": "enderstorage",UID
-    "name": "EnderStorage",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/EnderStorage.json",
+    "modId": "baubles",UID
+    "name": "Baubles",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Baubles.json",
     "tags": [
         "Modpack"
     ],
@@ -16,11 +16,11 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.4.5.24",
+            "name": "1.0.1.18",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://chickenbones.net/maven/codechicken/EnderStorage/1.7.10-1.4.5.24/EnderStorage-1.7.10-1.4.5.24-universal.jar",
+                    "url": "https://dl.dropboxusercontent.com/u/47135879/Baubles-1.7.10-1.0.1.8.jar",
                     "downloadType": "direct"
                 }
             ],

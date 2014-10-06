@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.neiaddons",
+    "uid": "tc.chisel",
     "repo": "suranis.quickmods",
-    "modId": "neiaddons",UID
-    "name": "NEIAddons",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/NEIAddons.json",
+    "modId": "chisel",UID
+    "name": "Chisel",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Chisel.json",
     "tags": [
         "Modpack"
     ],
@@ -16,12 +16,12 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.12.2",
+            "name": "1.5.0",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://bdew.net/download/neiaddons-mc1710-1.12.2.9.jar",
-                    "downloadType": "direct"
+                    "url": "http://www.mediafire.com/download/dtjbhbig28uj8i7/chisel-1.6.4-1.5.0fix.jar",
+                    "downloadType": "parallel"
                 }
             ],
         }

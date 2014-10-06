@@ -2,9 +2,9 @@
     "formatVersion": 1,
     "uid": "tc.thermalexpansion",
     "repo": "suranis.quickmods",
-    "modId": "thermalexpansion",
+    "modId": "thermalexpansion",UID
     "name": "ThermalExpansion",
-    "updateUrl": "https://raw.githubusercontent.com/suranis/quickmods/master/ThermalExpansion.json",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/ThermalExpansion.json",
     "tags": [
         "Modpack"
     ],
@@ -16,14 +16,14 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "4.0.0B5-13",
+            "name": "4.0.0_b5-13",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/2212447",
-                    "downloadType": "parallel"
+                    "url": "http://addons.curse.cursecdn.com/files/2212/447/ThermalExpansion-[1.7.10]4.0.0B5-13.jar",
+                    "downloadType": "direct"
                 }
-            ]
+            ],
         }
     ]
 }

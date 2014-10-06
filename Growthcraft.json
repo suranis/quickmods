@@ -1,10 +1,10 @@
 {
     "formatVersion": 1,
-    "uid": "tc.neiaddons",
+    "uid": "tc.growthcraft",
     "repo": "suranis.quickmods",
-    "modId": "neiaddons",UID
-    "name": "NEIAddons",
-    "updateUrl": "https://rawgit.com/suranis/quickmods/master/NEIAddons.json",
+    "modId": "growthcraft",UID
+    "name": "Growthcraft",
+    "updateUrl": "https://rawgit.com/suranis/quickmods/master/Growthcraft.json",
     "tags": [
         "Modpack"
     ],
@@ -16,12 +16,12 @@
             "mcCompat": [
                 "1.7.10"
             ],
-            "name": "1.12.2",
+            "name": "2.1.0a",
             "installType": "forgeMod",
             "urls": [
                 {
-                    "url": "http://bdew.net/download/neiaddons-mc1710-1.12.2.9.jar",
-                    "downloadType": "direct"
+                    "url": "https://www.dropbox.com/s/tbqtbtbho9evsun/Growthcraft-1.7.10.zip?dl=1",
+                    "downloadType": "parallel"
                 }
             ],
         }
